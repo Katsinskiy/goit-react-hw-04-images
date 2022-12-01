@@ -1,5 +1,5 @@
-import { ImageGalleryItem } from 'components';
 import React from 'react';
+import { ImageGalleryItem } from 'components';
 import s from './ImageGallery.module.css';
 import PropTypes from 'prop-types';
 
